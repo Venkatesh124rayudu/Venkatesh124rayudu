@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Venkatesh124rayudu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatesh124rayudu/Venkatesh124rayudu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkatesh124rayudu/Venkatesh124rayudu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Venkatesh124rayudu/Venkatesh124rayudu/output/github-snake.svg" />
 </picture>
