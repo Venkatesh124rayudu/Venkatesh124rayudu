@@ -3,10 +3,10 @@
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio-link.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://venkateshrayudu.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-rayudu-a6620b258/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkateshrayudu.tech@gmail.com)
+
 
 
 # 💻 Tech Stack:
