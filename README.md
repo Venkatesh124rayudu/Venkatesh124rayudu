@@ -17,7 +17,7 @@
 
 ---
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -39,31 +39,28 @@
 
 <div align="center">
 
-### 👨‍💻 Languages
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+### 👨‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=js,html,css,java,python" height="50" />
 
-<br/>
+<br/><br/>
 
-### 🚀 Frameworks & Libraries
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+### 🚀 Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" height="50" />
 
-<br/>
+<br/><br/>
 
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50" />
 
-<br/>
+<br/><br/>
 
-### 🌐 Hosting & Deployment
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+### 🌐 Hosting & Deployment  
+<img src="https://skillicons.dev/icons?i=netlify,vercel" height="50" />
+
+<br/><br/>
+
+### ⚒️ Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50" />
 
 </div>
 
@@ -83,6 +80,7 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Venkatesh124rayudu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </p>
