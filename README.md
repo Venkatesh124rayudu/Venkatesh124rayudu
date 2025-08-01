@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=480&lines=Software+Developer+@+Deepcept+AI;MERN+Stack+Developer;Open+Source+Contributor;Freelancer+%7C+Tech+Mentor;Exploring+DevOps+%26+RAG" alt="Typing SVG" />
 </p>
-
+<br/><br/>
 
 
 ## 💫 About Me
@@ -16,7 +16,7 @@
 💬 Ask me about **MERN stack**, **DevOps**, **RAG pipelines**, and scalable app design.  
 ⚡ Fun fact: I once led a **college throwball team** while managing academics and leadership.
 
-
+<br/><br/>
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -32,6 +32,7 @@
   </a>
 
 </div>
+<br/><br/>
 
 
 
@@ -71,7 +72,7 @@
 
 </div>
 
-
+<br/><br/>
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -79,7 +80,7 @@
   ![](https://github-readme-stats.vercel.app/api?username=Venkatesh124rayudu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)  
   <br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=Venkatesh124rayudu&theme=blue_navy&hide_border=false)
-  <br/>
+  <br/><br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh124rayudu&theme=blue_navy&hide_border=false&layout=compact)
 
 </div>
