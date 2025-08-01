@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=480&lines=Software+Developer+@+Deepcept+AI;MERN+Stack+Developer;Open+Source+Contributor;Freelancer+%7C+Tech+Mentor;Exploring+DevOps+%26+RAG" alt="Typing SVG" />
 </p>
 
----
+
 
 ## 💫 About Me
 
@@ -16,7 +16,6 @@
 💬 Ask me about **MERN stack**, **DevOps**, **RAG pipelines**, and scalable app design.  
 ⚡ Fun fact: I once led a **college throwball team** while managing academics and leadership.
 
----
 
 ## 🌐 Connect With Me
 
@@ -34,7 +33,7 @@
 
 </div>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -72,7 +71,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -85,7 +84,7 @@
 
 </div>
 
----
+
 
 ## 🏆 GitHub Trophies
 
@@ -93,14 +92,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Venkatesh124rayudu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
----
+
 
 ## 🐍 GitHub Contribution Snake
 
-<picture>
+<div align="center">
+
+<picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatesh124rayudu/Venkatesh124rayudu/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkatesh124rayudu/Venkatesh124rayudu/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Venkatesh124rayudu/Venkatesh124rayudu/output/github-snake.svg" />
 </picture>
+</div>
 
----
+
