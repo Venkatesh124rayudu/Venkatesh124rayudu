@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5hbzVhZmNucnZlYWZsNHhmcm1hYXludm8yMm84Mjhrenp5ZjA5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1m4ukmk9Lu90At2FGu/giphy.gif" width="400"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Venkatesh Rayudu</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=480&lines=Software+Developer+@+Deepcept+AI;MERN+Stack+Developer;Open+Source+Contributor;Freelancer+%7C+Tech+Mentor;Exploring+DevOps+%26+RAG" alt="Typing SVG" />
 </p>
-<br/>
 
 
 ## 💫 About Me
