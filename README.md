@@ -42,22 +42,22 @@
 ### 👨‍💻 Languages  
 <img src="https://skillicons.dev/icons?i=js,html,css,java,python" height="50" />
 
-<br/><br/>
+<br/>
 
 ### 🚀 Frameworks & Libraries  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" height="50" />
 
-<br/><br/>
+<br/>
 
 ### 🗄️ Databases  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50" />
 
-<br/><br/>
+<br/>
 
 ### 🌐 Hosting & Deployment  
 <img src="https://skillicons.dev/icons?i=netlify,vercel" height="50" />
 
-<br/><br/>
+<br/>
 
 ### ⚒️ Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50" />
