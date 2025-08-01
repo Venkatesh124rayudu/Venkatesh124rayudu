@@ -1,32 +1,80 @@
-# 💫 About Me:
-🔭 I’m currently working on freelancing projects and enhancing my portfolio as a MERN stack developer.  <br>👯 I’m looking to collaborate on web development projects, particularly in React, Express.js, MongoDB, and building RESTful APIs.<br>🤝 I’m looking for help with gaining professional hands-on experience in full-stack development and freelancing opportunities.  <br>🌱 I’m currently learning more about MongoDB, and improving my Python skills.  <br>💬 Ask me about web development, MERN stack, and building portfolio websites.  <br>⚡ Fun fact: I have experience leading a throwball team in college, balancing both academics and leadership roles!  <br><br>
+<h1 align="center">💫 Venkatesh Rayudu</h1>
+<p align="center">
+  <b>Full-Stack Developer | MERN Enthusiast | Freelancer</b><br>
+  Building clean, scalable, and modern web applications.
+</p>
 
+---
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://venkateshrayudu.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-rayudu-a6620b258/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkateshrayudu.tech@gmail.com)
+## 🧠 About Me
 
+- 🔭 Currently working on **freelancing projects** and refining my **MERN stack** portfolio  
+- 🤝 Open to **collaborations** on full-stack apps, REST APIs & portfolio sites  
+- 🌱 Diving deeper into **MongoDB**, enhancing my **Python** skills  
+- 💬 Ask me about **React**, **Express.js**, **MongoDB**, and **API development**  
+- ⚡ Fun Fact: I’ve led a **college throwball team** while managing academic responsibilities 🎯
 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Venkatesh124rayudu&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=Venkatesh124rayudu&theme=blue_navy&hide_border=false)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh124rayudu&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Connect With Me
 
-</div>
+<p align="center">
+  <a href="https://venkateshrayudu.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/venkatesh-rayudu-a6620b258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:venkateshrayudu.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh124rayudu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=Venkatesh124rayudu&theme=dark&hide_border=false" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh124rayudu&theme=dark&layout=compact&hide_border=false" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Venkatesh124rayudu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><picture>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Venkatesh124rayudu&theme=onedark&no-frame=false&no-bg=true&margin-w=6" />
+</p>
+
+---
+
+## 🐍 GitHub Snake Game
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatesh124rayudu/Venkatesh124rayudu/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkatesh124rayudu/Venkatesh124rayudu/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Venkatesh124rayudu/Venkatesh124rayudu/output/github-snake.svg" />
