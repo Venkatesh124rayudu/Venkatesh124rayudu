@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Rayudu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=450&lines=Software+Developer;MERN+Stack+Developer;Open+Source+Contributor;Freelancer+%7C+Tech+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=480&lines=Software+Developer+@+Deepcept+AI;MERN+Stack+Developer;Open+Source+Contributor;Freelancer+%7C+Tech+Mentor;Exploring+DevOps+%26+RAG" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-🔭 I’m currently working on freelancing projects and enhancing my portfolio as a MERN stack developer.  
-👯 I’m looking to collaborate on web development projects using **React**, **Express.js**, **MongoDB**, and building **RESTful APIs**.  
-🤝 I’m open to gaining **hands-on experience** in full-stack development and **freelancing opportunities**.  
-🌱 I’m currently learning more about **MongoDB** and improving my **Python** skills.  
-💬 Ask me about **web development**, **MERN stack**, and **building portfolio websites**.  
-⚡ Fun fact: I led a **throwball team** in college while balancing academics and leadership!  
+💼 I'm currently working as a **Software Developer at [Deepcept AI](https://deepcept.com/)**, contributing to AI-integrated applications.  
+🔭 Also handling **freelancing projects** and enhancing my full-stack portfolio.  
+👯 I’m open to collaborating on **web development** and **RAG-based** AI tools.  
+🌱 Exploring **Docker**, **CI/CD**, **AWS**, and **Kubernetes** to improve DevOps workflows.  
+🧠 Built my first **Retrieval-Augmented Generation (RAG)** project using open-source LLMs.  
+💬 Ask me about **MERN stack**, **DevOps**, **RAG pipelines**, and scalable app design.  
+⚡ Fun fact: I once led a **college throwball team** while managing academics and leadership.
 
 ---
 
@@ -51,6 +52,13 @@
 
 ### 🗄️ Databases  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50" />
+
+<br/>
+
+### ☁️ DevOps & Cloud  
+<img src="https://skillicons.dev/icons?i=docker,aws" height="50" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" height="30" />
 
 <br/>
 
